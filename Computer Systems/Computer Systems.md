@@ -1,4 +1,4 @@
-Computer systems include [[hardware]], [[software]], and [[firmware]].
+Computer systems include hardware, software, and firmware.
 Hardware is something you can touch and feel; the physical
 computer and the parts inside the computer are examples of
 hardware. The monitor, keyboard, and mouse are hardware
