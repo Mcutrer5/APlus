@@ -1,5 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Solarized",
-  "theme": "moonstone"
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "translucency": false,
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 16,
+  "showViewHeader": true
 }

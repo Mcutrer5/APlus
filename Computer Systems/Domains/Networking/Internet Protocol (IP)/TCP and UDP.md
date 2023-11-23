@@ -41,7 +41,7 @@
     - TCP ensures reliable data delivery through acknowledgment and retransmission.
     - UDP sacrifices reliability for speed and simplicity.
 
-#### e. Port Numbers
+#### e. [[Ports]]
 
 - Both TCP and UDP use port numbers to identify specific services on a device.
 - Well-known ports range from 0 to 1023, registered ports from 1024 to 49151, and dynamic or private ports from 49152 to 65535.
