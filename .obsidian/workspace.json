@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems/Domains/Networking/Internet Protocol (IP)/TCP and UDP.md",
+                "file": "Computer Systems/Domains/Networking/Internet Protocol (IP)/Common Network Ports.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Systems/Domains/Networking/Internet Protocol (IP)/TCP and UDP.md",
+                "file": "Computer Systems/Domains/Networking/Internet Protocol (IP)/Common Network Ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Systems/Domains/Networking/Internet Protocol (IP)/TCP and UDP.md",
+                "file": "Computer Systems/Domains/Networking/Internet Protocol (IP)/Common Network Ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Systems/Domains/Networking/Internet Protocol (IP)/TCP and UDP.md"
+                "file": "Computer Systems/Domains/Networking/Internet Protocol (IP)/Common Network Ports.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "4b0251ae4049dc3d",
   "lastOpenFiles": [
-    "Computer Systems/Domains/Networking/Internet Protocol (IP)/Ports.md",
     "Computer Systems/Domains/Networking/Internet Protocol (IP)/TCP and UDP.md",
     "Computer Systems/Domains/Networking/Internet Protocol (IP)/IPv4 and IPv6 Addressing.md",
+    "Computer Systems/Domains/Mobile Devices/Synchronizing Your Data.md",
+    "Computer Systems/Domains/Mobile Devices/Email Configurations.md",
+    "Computer Systems/Domains/Mobile Devices/Mobile Operating Systems/Configuration and Synchronization.md",
+    "Computer Systems/Domains/Mobile Devices/Mobile Operating Systems/iOS, Android, Windows Mobile.md",
+    "Computer Systems/Domains/Mobile Devices/Mobile Device Connectivity.md",
+    "Computer Systems/Domains/Mobile Devices/Mobile Device Accessories.md",
+    "Computer Systems/Computer Systems.md",
+    "Computer Systems/Domains/Mobile Devices/Mobile Device Accessories",
+    "Computer Systems/Domains/Troubleshooting/Troubleshooting Tools.md",
+    "Computer Systems/Domains/Troubleshooting/Troubleshooting Theory.md",
+    "Computer Systems/Domains/Troubleshooting/Troubleshooting Common Issues.md",
+    "Computer Systems/Domains/Networking/Wireless Networking/WLAN Standards.md",
     "Computer Systems/Domains/Hardware/Central Processing Unit (CPU)/CPU Installation and Troubleshooting.md",
     "Computer Systems/Domains/Hardware/Central Processing Unit (CPU)/CPU Architecture.md",
+    "Computer Systems/Domains/Networking/Internet Protocol (IP)/Common Network Ports.md",
     "Computer Systems/Domains/Mobile Devices/Mobile Devices.md",
     "README.md",
-    "Computer Systems/Domains/Mobile Devices/Mobile Operating Systems/iOS, Android, Windows Mobile.md",
     "Computer Systems/Domains/Networking/Network Devices/Routers, switches, and hubs.md",
     "600.md",
-    "Computer Systems/Domains/Mobile Devices/Mobile Operating Systems/Configuration and Synchronization.md",
     "Computer Systems/Domains/Mobile Devices/Mobile Devices",
-    "Computer Systems/Computer Systems.md",
     "Computer Systems/Domains/Hardware/Laptop Hardware",
-    "Computer Systems/Domains/Troubleshooting/Troubleshooting Common Issues.md",
-    "Computer Systems/Domains/Troubleshooting/Troubleshooting Theory.md",
     "Computer Systems/Domains/Networking/Internet Protocol (IP)/Subnetting.md",
     "device driver.md",
     "hardware.md",
-    "Computer Systems/Domains/Troubleshooting/Troubleshooting Tools.md",
     "Computer Systems/Domains/Hardware/Motherboards/Installation and Troubleshooting.md",
     "Domains/Troubleshooting/Troubleshooting Common Issues",
     "Domains/Troubleshooting/Troubleshooting Tools",
     "Domains/Troubleshooting/Troubleshooting Theory",
     "Computer Systems/Domains/Hardware/Motherboards/Motherboard Components.md",
     "Computer Systems/Domains/Hardware/Memory/Troubleshooting Memory Issues.md",
-    "Computer Systems/Domains/Hardware/Memory/RAM Types and Configurations.md",
-    "Computer Systems/Domains/Hardware/Storage/Disk Management and Troubleshooting.md",
-    "Computer Systems/Domains/Hardware/Storage/Types of Storage Devices.md",
     "Domains/Hardware/Storage/Untitled",
-    "Domains/Hardware/Central Processing Unit (CPU)/CPU.md",
     "Computer Systems/Domains/Hardware/Motherboards",
     "Computer Systems/Domains/Hardware/Memory",
-    "Computer Systems/Domains/Hardware/Storage",
-    "Computer Systems/Domains/Hardware/Central Processing Unit (CPU)",
-    "Computer Systems/Domains/Mobile Devices/Mobile Troubleshooting/Troubleshooting Steps.md"
+    "Computer Systems/Domains/Hardware/Storage"
   ]
 }

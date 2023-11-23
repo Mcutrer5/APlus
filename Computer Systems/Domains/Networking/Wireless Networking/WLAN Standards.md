@@ -5,30 +5,15 @@
 
 #### b. Key Standards
 
-1. **802.11a:**
-    
-    - Operates in the 5 GHz frequency band.
-    - Offers higher data rates but has shorter range compared to 802.11b and g.
-2. **802.11b:**
-    
-    - Operates in the 2.4 GHz frequency band.
-    - Slower data rates compared to 802.11a but provides better range.
-3. **802.11g:**
-    
-    - Operates in the 2.4 GHz frequency band.
-    - Combines the speed of 802.11a with the range of 802.11b.
-4. **802.11n:**
-    
-    - Operates in both 2.4 GHz and 5 GHz frequency bands.
-    - Introduces multiple input, multiple output (MIMO) technology for improved performance.
-5. **802.11ac:**
-    
-    - Operates in the 5 GHz frequency band.
-    - Offers higher data rates and improved performance over 802.11n.
-6. **802.11ax (Wi-Fi 6):**
-    
-    - The latest standard, designed for high-efficiency wireless communication.
-    - Operates in both 2.4 GHz and 5 GHz bands, with increased capacity and faster data rates.
+| Wi-Fi Standard | Frequency Band | Key Features |
+|----------------|----------------|--------------|
+| 802.11a        | 5 GHz           | Higher data rates, shorter range compared to 802.11b and g. |
+| 802.11b        | 2.4 GHz         | Slower data rates, better range compared to 802.11a. |
+| 802.11g        | 2.4 GHz         | Combines speed of 802.11a with range of 802.11b. |
+| 802.11n        | 2.4 GHz and 5 GHz | Introduces MIMO technology for improved performance. |
+| 802.11ac       | 5 GHz           | Higher data rates, improved performance over 802.11n. |
+| 802.11ax (Wi-Fi 6) | 2.4 GHz and 5 GHz | Latest standard, designed for high-efficiency wireless communication. - Increased capacity and faster data rates. |
+
 
 #### c. Considerations
 
